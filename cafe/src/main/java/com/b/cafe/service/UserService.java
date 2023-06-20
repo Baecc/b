@@ -1,6 +1,7 @@
 package com.b.cafe.service;
 
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.security.authentication.AuthenticationManager;
 import org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
@@ -17,6 +18,8 @@ public class UserService {
 
 	@Autowired
 	private UserRepository userRepository;
+	
+
 
 	@Transactional
 	public void 회원가입(User user) {
@@ -36,5 +39,7 @@ public class UserService {
 		String encPassword = encoder.encode(rawPassword);
 		persistance.setPassword(encPassword);
 		persistance.setEmail(user.getEmail());
+		
+
 	}
 }

@@ -13,6 +13,7 @@ import org.springframework.web.bind.annotation.RestController;
 import com.b.cafe.config.auth.PrincipalDetail;
 import com.b.cafe.dto.ResponseDto;
 import com.b.cafe.model.Board;
+import com.b.cafe.model.Reply;
 import com.b.cafe.service.BoardService;
 
 @RestController
@@ -38,4 +39,16 @@ public class BoardApiController {
 		boardService.글수정하기(id,board);
 		return new ResponseDto<Integer>(HttpStatus.OK.value(), 1);	
 		}
+	
+	@PostMapping("/api/board/{boardId}/reply")
+	public ResponseDto<Integer> replysave(@PathVariable int boardId ,@RequestBody Reply reply, @AuthenticationPrincipal PrincipalDetail principal) {
+		boardService.댓글쓰기(principal.getUser(),boardId,reply);
+		return new ResponseDto<Integer>(HttpStatus.OK.value(), 1);
+	}
+	
+	@DeleteMapping("/api/board/{boardId}/reply/{replyId}")
+	public ResponseDto<Integer> replyDelete(@PathVariable int replyId) {
+		boardService.댓글삭제(replyId);
+		return new ResponseDto<Integer>(HttpStatus.OK.value(), 1);
+	}
 }

@@ -24,7 +24,7 @@
        <td  style="cursor:pointer;" onclick="location.href='/board/${board.id }'">${board.title }</td>
  	   <td>${ board.user.username}</td>
        <td>${ board.createDate}</td>
-       <td>${ board.count}</td>
+       <td> ${board.count}</td>
       </tr>
     </tbody>
     </c:forEach>
