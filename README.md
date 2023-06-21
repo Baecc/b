@@ -15,3 +15,4 @@
   + MySQL
 ___
 2. DB설계
+<img width="496" alt="화면 캡처 2023-06-21 153303 - 복사본" src="https://github.com/Baecc/b/assets/116665998/6fd60f09-fea9-4c06-aca9-4988861a1d5e">
