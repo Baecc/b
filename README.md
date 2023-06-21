@@ -19,7 +19,7 @@ ___
 
 
 ***
-
+## 3.실행화면
 
 <details>
 <summary> 메인페이지  </summary>
