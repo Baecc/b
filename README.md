@@ -16,9 +16,12 @@
 ___
 ## 2. DB설계
 <img width="496" alt="화면 캡처 2023-06-21 153303 - 복사본" src="https://github.com/Baecc/b/assets/116665998/6fd60f09-fea9-4c06-aca9-4988861a1d5e">
-___
 
-<detail>
+
+
+
+
+<details>
 <summary> 메인페이지  </summary>
- ![screenshot](https://github.com/Baecc/b/assets/116665998/7bee3c62-6395-4452-a696-ebf48a9a55ba)
-</detail>
+  ![screenshot](https://github.com/Baecc/b/assets/116665998/7bee3c62-6395-4452-a696-ebf48a9a55ba)
+</details>
