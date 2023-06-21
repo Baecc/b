@@ -3,7 +3,7 @@
 
 ## 1.프로젝트 개요
 + 개발 언어 
-  +JAVA
+  + JAVA
 
 + 개발환경
   + Spring Boot
