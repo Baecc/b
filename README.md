@@ -52,5 +52,5 @@ ___
 <details>
 <summary> 게시글 페이지  </summary>
 
-![screenshot (1)](https://github.com/Baecc/b/assets/116665998/10ebbe6a-211f-4702-b8b4-8dab69616b32)
+![screenshot (2)](https://github.com/Baecc/b/assets/116665998/073bd073-03ce-4f86-a582-0391d7e09fbe)
 </details>
