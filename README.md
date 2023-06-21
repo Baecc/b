@@ -18,7 +18,7 @@ ___
 <img width="496" alt="화면 캡처 2023-06-21 153303 - 복사본" src="https://github.com/Baecc/b/assets/116665998/6fd60f09-fea9-4c06-aca9-4988861a1d5e">
 
 
-
+***
 
 
 <details>
@@ -26,4 +26,14 @@ ___
 
   ![screenshot](https://github.com/Baecc/b/assets/116665998/7bee3c62-6395-4452-a696-ebf48a9a55ba)
 
+</details>
+
+
+<details>
+<summary> 로그인/회원가입  </summary>
+
+![screenshot (1)](https://github.com/Baecc/b/assets/116665998/10ebbe6a-211f-4702-b8b4-8dab69616b32)
+
+
+![screenshot (3)](https://github.com/Baecc/b/assets/116665998/430a806b-cf40-41f0-bb7f-1b1e6eed2812)
 </details>
