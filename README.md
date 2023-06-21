@@ -40,10 +40,17 @@ ___
 
 
 <details>
-<summary> 로그인/회원가입  </summary>
+<summary> 회원정보/글쓰기  </summary>
 
 ![screenshot (4)](https://github.com/Baecc/b/assets/116665998/71c60225-8993-4c23-8c76-0f6fe4a91663)
 
 
 ![screenshot (5)](https://github.com/Baecc/b/assets/116665998/32662047-4bd0-418f-b3d5-3e5588388d55)
+</details>
+
+
+<details>
+<summary> 게시글 페이지  </summary>
+
+![screenshot (1)](https://github.com/Baecc/b/assets/116665998/10ebbe6a-211f-4702-b8b4-8dab69616b32)
 </details>
