@@ -37,3 +37,13 @@ ___
 
 ![screenshot (3)](https://github.com/Baecc/b/assets/116665998/430a806b-cf40-41f0-bb7f-1b1e6eed2812)
 </details>
+
+
+<details>
+<summary> 로그인/회원가입  </summary>
+
+![screenshot (4)](https://github.com/Baecc/b/assets/116665998/71c60225-8993-4c23-8c76-0f6fe4a91663)
+
+
+![screenshot (5)](https://github.com/Baecc/b/assets/116665998/32662047-4bd0-418f-b3d5-3e5588388d55)
+</details>
