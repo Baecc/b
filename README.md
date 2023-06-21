@@ -22,6 +22,5 @@ ___
 
 
 <details>
-<summary> 메인페이지  </summary>
-![screenshot](https://github.com/Baecc/b/assets/116665998/7bee3c62-6395-4452-a696-ebf48a9a55ba)
+<summary> 메인페이지  </summary>![screenshot](https://github.com/Baecc/b/assets/116665998/7bee3c62-6395-4452-a696-ebf48a9a55ba)
 </details>
