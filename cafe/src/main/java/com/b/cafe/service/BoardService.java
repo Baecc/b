@@ -70,4 +70,11 @@ public class BoardService {
 	public void 댓글삭제(int replyid) {
 		replyRepository.deleteById(replyid);
 	}
+	@Transactional
+	public Board detail(int id) {
+	    boardRepository.updateCount(id);
+	    return boardRepository.findById(id).orElseThrow(() -> {
+	        return new IllegalArgumentException("글 상세보기 실패: 아이디를 찾을 수 없습니다.");
+	    });
+	}
 }

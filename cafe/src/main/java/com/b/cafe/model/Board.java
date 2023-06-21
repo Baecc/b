@@ -1,6 +1,7 @@
 package com.b.cafe.model;
 
 import java.sql.Timestamp;
+
 import java.util.List;
 
 import javax.persistence.CascadeType;
@@ -42,7 +43,6 @@ public class Board {
 	@Lob//대용량 데이터
 	private String content;
 	
-	@Column(columnDefinition = "int default 0", nullable = false)
 	private int count;
 	
 	@ManyToOne(fetch = FetchType.EAGER)

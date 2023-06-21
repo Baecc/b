@@ -14,7 +14,7 @@
         <th>제목</th>
         <th>작성자</th>
         <th>작성일</th>
-        <th>조회</th>
+      <!--   <th>조회</th> -->
       </tr>
     </thead>
     <c:forEach var="board" items="${boards.content}">
@@ -24,7 +24,7 @@
        <td  style="cursor:pointer;" onclick="location.href='/board/${board.id }'">${board.title }</td>
  	   <td>${ board.user.username}</td>
        <td>${ board.createDate}</td>
-       <td> ${board.count}</td>
+  <%--      <td> ${board.count}</td> --%>
       </tr>
     </tbody>
     </c:forEach>
