@@ -15,7 +15,7 @@
 			<button id="btn-delete" class="btn btn-dark">삭제</button>
 		</c:if>
 		<button class="btn btn-dark" onclick="location.href = `/`">목록으로</button>
-	<br /> <br />
+
 	</div>
 	<br /> <br />
 	<div>
